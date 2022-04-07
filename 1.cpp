@@ -4,6 +4,7 @@ struct person
 {
     int age;
     char * name;
+    int tue;
 };
  
 int main(void)
