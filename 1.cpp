@@ -9,7 +9,7 @@ struct person
  
 int main(void)
 {
-    struct person tom = {24, "Tom"};
+    struct person tom = {25, "Tom"};
     printf("Age: %d \t Name: %s", tom.age, tom.name);
     return 0;
 }
